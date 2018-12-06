@@ -1,0 +1,3 @@
+eureka-server 8671
+
+eureka-client 8672

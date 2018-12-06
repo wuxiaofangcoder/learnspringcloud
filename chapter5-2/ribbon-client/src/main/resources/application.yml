@@ -1,0 +1,9 @@
+stores:
+  ribbon:
+    listOfServers: example.com ,google.com
+
+ribbon:
+  eureka:
+    enable: false
+server:
+  port: 8769
