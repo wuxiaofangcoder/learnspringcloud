@@ -12,8 +12,9 @@ import org.springframework.stereotype.Component;
 public class MyFiler extends ZuulFilter {
 
     private static Logger log= LoggerFactory.getLogger(MyFiler.class);
+    @Override
     public String filterType() {
-        return "ss";
+        return "pre";
     }
 
     @Override

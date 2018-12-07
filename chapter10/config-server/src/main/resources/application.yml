@@ -1,0 +1,29 @@
+
+
+##从本地获取配置文件
+##spring:
+##  cloud:
+##    config:
+##      server:
+##        native:
+##          search-locations: classpath:/shared
+##  profiles:
+##    active: native
+
+
+##远程获取配置文件（git）
+
+spring:
+    cloud:
+      config:
+        server:
+          git:
+            uri: https://github.com/wuxiaofangcoder/SpringcloudConfig
+            search-paths: .
+            username: wuxiaofangcoder
+            password:
+        label: master
+    application:
+      name: config-server
+server:
+  port: 8769

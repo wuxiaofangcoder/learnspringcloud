@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a843d56-17d6-47dd-a45f-216ad89a07aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/example/eurekafeignclient/HiHystrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/example/eurekazuulclient/MyFallbackProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/example/eurekazuulclient/MyFiler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/discrption.txt" beforeDir="false" afterPath="$PROJECT_DIR$/doc/discrption.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-feign-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-feign-client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/example/eurekafeignclient/EurekaClientFeign.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/example/eurekafeignclient/EurekaClientFeign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/example/eurekafeignclient/EurekaFeignClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/example/eurekafeignclient/EurekaFeignClientApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/example/eurekafeignclient/HiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/example/eurekafeignclient/HiController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/example/eurekafeignclient/HiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/example/eurekafeignclient/HiService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-feign-client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-feign-client/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-ribbon-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-ribbon-client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-ribbon-client/src/main/java/com/demo/eurekaribbonclient/EurekaRibbonClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-ribbon-client/src/main/java/com/demo/eurekaribbonclient/EurekaRibbonClientApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-ribbon-client/src/main/java/com/demo/eurekaribbonclient/RibbonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-ribbon-client/src/main/java/com/demo/eurekaribbonclient/RibbonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/example/eurekazuulclient/MyFiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/example/eurekazuulclient/MyFiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-zuul-client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-zuul-client/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/eureka-server/target/" />
@@ -61,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eureka-zuul-client/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="783">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="435">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -70,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/example/eurekazuulclient/MyFallbackProvider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-681">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="537">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,16 +67,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/example/eurekazuulclient/MyFiler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <state relative-caret-position="319">
+              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#624#625#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -101,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/example/eurekazuulclient/EurekaZuulClientApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="203">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -166,9 +149,9 @@
         <option value="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/example/eurekafeignclient/HiController.java" />
         <option value="$PROJECT_DIR$/eureka-monitor-client/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/eureka-zuul-client/pom.xml" />
-        <option value="$PROJECT_DIR$/eureka-zuul-client/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/example/eurekazuulclient/MyFallbackProvider.java" />
         <option value="$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/example/eurekazuulclient/EurekaZuulClientApplication.java" />
+        <option value="$PROJECT_DIR$/eureka-zuul-client/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/example/eurekazuulclient/MyFiler.java" />
       </list>
     </option>
@@ -252,16 +235,7 @@
               <item name="eureka-zuul-client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chapter5-2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chapter5-2" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-zuul-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="eurekazuulclient" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -279,7 +253,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544173138287" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544175747166" />
     <property name="last_opened_file_path" value="$USER_HOME$/git/springcloud-book/chapter8-7/eureka-feign-client" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -380,18 +354,17 @@
       <updated>1544074765279</updated>
       <workItem from="1544074767986" duration="7304000" />
       <workItem from="1544082103371" duration="8045000" />
-      <workItem from="1544149901127" duration="15792000" />
+      <workItem from="1544149901127" duration="18684000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31141000" />
+    <option name="totallyTimeSpent" value="34033000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -401,7 +374,7 @@
       <window_info id="Web" order="7" sideWeight="0.5016129" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -663,20 +636,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-zuul-client/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-zuul-client/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/eureka-feign-client/src/main/java/com/example/eurekafeignclient/EurekaFeignClientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
@@ -731,32 +690,44 @@
     <entry file="file://$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/example/eurekazuulclient/EurekaZuulClientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/example/eurekazuulclient/MyFallbackProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-681">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="537">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-zuul-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-zuul-client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/eureka-zuul-client/src/main/java/com/example/eurekazuulclient/MyFiler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        <state relative-caret-position="319">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
           </folding>
         </state>
       </provider>

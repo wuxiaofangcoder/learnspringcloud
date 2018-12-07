@@ -13,7 +13,7 @@ zuul:
   routes:
     hiapi:
       path: /hiapi/**
-      serviceId: eureka-ribbon-client
+      serviceId: eureka-client
       #serviceId: hiapi-v1
       ##如果不想用Ribbon做负载均衡,就制定URL,去掉SErviceId
       ##url: http://localhost:8762/eureka/
