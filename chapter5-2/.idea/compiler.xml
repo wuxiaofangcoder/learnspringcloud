@@ -9,8 +9,10 @@
         <module name="eureka-client" />
         <module name="eureka-client1" />
         <module name="eureka-feign-client" />
+        <module name="eureka-monitor-client" />
         <module name="eureka-ribbon-client" />
         <module name="eureka-server" />
+        <module name="eureka-zuul-client" />
         <module name="ribbon-client" />
       </profile>
     </annotationProcessing>
@@ -20,8 +22,10 @@
       <module name="eureka-client" options="" />
       <module name="eureka-client1" options="" />
       <module name="eureka-feign-client" options="" />
+      <module name="eureka-monitor-client" options="" />
       <module name="eureka-ribbon-client" options="" />
       <module name="eureka-server" options="" />
+      <module name="eureka-zuul-client" options="" />
       <module name="ribbon-client" options="" />
     </option>
   </component>

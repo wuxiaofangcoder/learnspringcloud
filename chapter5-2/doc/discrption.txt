@@ -1,3 +1,11 @@
 eureka-server 8671
 
 eureka-client 8672
+
+eureka-client1 8673
+
+eureka-ribbon-client 8764
+
+eureka-feign-client 8765
+
+ribbon-client 8769
