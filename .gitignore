@@ -14,6 +14,5 @@ yarn-error.log*
 *.sln
 /mvn
 /mvnw.cmd
-/springcloudConfigfiles/
 
 .project

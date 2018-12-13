@@ -1,6 +1,6 @@
 
 
-##从本地获取配置文件
+##锟接憋拷锟截伙拷取锟斤拷锟斤拷锟侥硷拷
 ##spring:
 ##  cloud:
 ##    config:
@@ -11,8 +11,7 @@
 ##    active: native
 
 
-##远程获取配置文件（git）
-
+##远锟教伙拷取锟斤拷锟斤拷锟侥硷拷锟斤拷git锟斤拷
 spring:
     cloud:
       config:
@@ -27,3 +26,7 @@ spring:
       name: config-server
 server:
   port: 8769
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
