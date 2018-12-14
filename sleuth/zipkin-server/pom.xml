@@ -33,12 +33,12 @@
             <artifactId>spring-cloud-starter-eureka</artifactId>
         </dependency>
 
-       <!-- <dependency>
+        <dependency>
             <groupId>io.zipkin.java</groupId>
             <artifactId>zipkin-server</artifactId>
-        </dependency>-->
+        </dependency>
 
-        <dependency>
+        <!--<dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-stream-rabbit</artifactId>
         </dependency>
@@ -46,7 +46,7 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-sleuth-zipkin-stream</artifactId>
-        </dependency>
+        </dependency>-->
 
         <dependency>
             <groupId>io.zipkin.java</groupId>
